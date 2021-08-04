@@ -1,13 +1,15 @@
  ### Bem-vindo(a) 👋🏻
  
   🌱 Atualmente estou aprendendo desenvolvimento mobile.
-  
+   ## 
  <div>
   <a href="https://github.com/HenriqueIsrael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueIsrael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueIsrael&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueIsrael&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+
+ 
  <div style="display: inline_block"><br>
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
