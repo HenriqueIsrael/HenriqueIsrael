@@ -1,6 +1,6 @@
  ### Bem-vindo(a) 👋🏻
- 
-  🌱 Learning mobile development.
+  📚 Studying computer engineering.
+  📱 Learning mobile development.
    ## 
  <div>
   <a href="https://github.com/HenriqueIsrael">
