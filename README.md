@@ -1,6 +1,6 @@
  ### Bem-vindo(a) 👋🏻
  
-  🌱 Atualmente estou aprendendo desenvolvimento mobile.
+  🌱 Learning mobile development.
    ## 
  <div>
   <a href="https://github.com/HenriqueIsrael">
