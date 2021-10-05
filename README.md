@@ -2,7 +2,7 @@
   📚 Studying computer engineering.
   
   
-  📱 Learning mobile development.
+  📱 Learning mobile and frontend development.
    ## 
  <div>
   <a href="https://github.com/HenriqueIsrael">
