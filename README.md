@@ -1,7 +1,5 @@
  ### Bem-vindo(a) 👋🏻
-  📚 Studying computer engineering.
-  
-  
+ 
   📱 Learning mobile and frontend development.
    ## 
  <div>
